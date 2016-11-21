@@ -8,6 +8,12 @@ Week 6 | Exercise 2.0
 
 This morning, we're going to practice optimizing your Python code to find ways to make your code run faster. 
 
+Two test arrays:
+
+arr = [-300, -100, -200, 10, 400, 30, 40, 100, 200, 50]
+arr2 = [2, 7, 1, 8, 2, 8, 4, 5, 9, 0, 4, 5, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+
+
 ## 1. Maximum product of three elements
 Write a function that takes a list of integers and returns the largest product of three elements.
 
