@@ -11,6 +11,7 @@ This morning, we're going to practice optimizing your Python code to find ways t
 Two test arrays:
 
 arr = [-300, -100, -200, 10, 400, 30, 40, 100, 200, 50]
+
 arr2 = [2, 7, 1, 8, 2, 8, 4, 5, 9, 0, 4, 5, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
 
 
